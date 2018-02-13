@@ -1,4 +1,4 @@
-Dadaic
+Dadaic: Project 1 Proposal
 ======
 index.html
 ------
