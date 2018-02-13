@@ -19,7 +19,7 @@ Then mercilessly use these newfound friends to conquer obstacles and reach the _
 answer to why your world lost it's color in the first place.
 
 ### Themes and Story:
-_n+1 Minds are better than n._
+_"n+1 Minds are better than n."_ 
 A formerly-colorful grey cube in a formerly-colorful grey world solves puzzles to find out why everything is so
 desaturated. 
 
@@ -52,8 +52,19 @@ engines, and color design.
 documentation.html
 ------
 This section is incomplete. 
-Current resources used include:
+### Resources:
+#### Provided:
 - [Project 1 Proposal: Game Treatment Guide](http://igm.rit.edu/~acjvks/courses/2017-fall/590-ios-game/html/project-1-proposal.html)
+
+#### Online:
+These sources used were used under the impression that tutorials found online were allowed to be used for class work in accordance with
+the information on GitHub.
+- [Dorward's Ramblings](http://dorward.me.uk/www/underline/)
+Removing Underlines from hyperlinks in CSS.
+- [Rapid Tables: Web Color](https://www.rapidtables.com/web/color/index.html)
+Database of color names for CSS.
+- [w3schools.com CSS Navigation Bar](https://www.w3schools.com/css/css_navbar.asp)
+Tutorial on creating Navigation Bars in CSS.
 
 project.html
 ------
