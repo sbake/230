@@ -2,7 +2,7 @@ Dadaic
 ======
 index.html
 ------
-## High Concept:
+### High Concept:
 A Game about friends, life, and finding meaning. Maybe.
 Gather friends and get past obstacles, just to find out why.
 
@@ -11,19 +11,19 @@ _The Game Design treatment is broken up between the index.html page and the prop
 
 proposal.html
 ------
-## Genre and Description:
+### Genre and Description:
 
 Dadaic will be a puzzle game with exploration and platformer elements. 
 In a world with no color, find other friends to make your world a little more exciting! 
 Then mercilessly use these newfound friends to conquer obstacles and reach the _End_, where Legend says you'll find the
 answer to why your world lost it's color in the first place.
 
-## Themes and Story:
+### Themes and Story:
 _n+1 Minds are better than n._
 A formerly-colorful grey cube in a formerly-colorful grey world solves puzzles to find out why everything is so
 desaturated. 
 
-## Esthetics:
+### Esthetics:
 #### Art:
 Simple, abstract, and with varying levels of color. Player characters and the "friends" they'll make will all be cubes
 of the same size, while all levels will be similarly square-like. Not quite pixels, but built like a game with a very 
@@ -34,7 +34,7 @@ a player has accumulated. This will cap out pretty quickly, but will vary betwee
 a more complex 8-bit tune. The original chime will be as few notes as possible without being annoying- no monotone beeping or
 whines.
 
-## Mechanics:
+### Mechanics:
 The player will used Arrow keys and the space bar to move and jump, and key commands to gather, dismiss, and control 
 other friend boxes. Music, color, and jump height will vary depending on how many boxes are in play.
 
@@ -45,7 +45,7 @@ As color changes, barriers may change- a barrier that starts as dark grey and bl
 match the background as the player makes new allies, allowing them to pass through. On the other hand, the same might
 happen to bridges, forcing them to find another way or leave someone behind.
 
-## About the Developer:
+### About the Developer:
 I'm Sophie Baker, a 2nd-year Game Design and Development student at RIT. I'm interested in programming, physics
 engines, and color design.
 
